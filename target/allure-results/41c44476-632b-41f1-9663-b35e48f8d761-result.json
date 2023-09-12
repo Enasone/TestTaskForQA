@@ -1,0 +1,107 @@
+{
+  "uuid": "41c44476-632b-41f1-9663-b35e48f8d761",
+  "historyId": "2970a26f095cda735a48413330eebcb4",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[test-template:depositCheckBalanceTest(java.lang.Double)]",
+  "testCaseName": "РџСЂРѕРєРµСЂРєР° Р±Р°Р»Р°РЅСЃР° РґРµРїРѕР·РёС‚Р°",
+  "fullName": "ru.bankproduct.unit.DepositUnitTest.depositCheckBalanceTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[test-template:depositCheckBalanceTest(java.lang.Double)]/[test-template-invocation:#1]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "12888@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.DepositUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.DepositUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "depositCheckBalanceTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ Deposit"
+    }
+  ],
+  "links": [],
+  "name": "РџСЂРѕРєРµСЂРєР° Р±Р°Р»Р°РЅСЃР° РґРµРїРѕР·РёС‚Р° Р‘Р°Р»Р°РЅСЃ РєР°СЂС‚С‹ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ = 100.0",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat '100.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015522,
+      "stop": 1694501015522
+    },
+    {
+      "name": "as 'Р‘Р°Р»Р°РЅСЃ РґРµРїРѕР·РёС‚Р° []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'Р‘Р°Р»Р°РЅСЃ РґРµРїРѕР·РёС‚Р°'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501015522,
+          "stop": 1694501015522
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015522,
+      "stop": 1694501015522
+    },
+    {
+      "name": "isEqualTo '100.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015522,
+      "stop": 1694501015522
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "UniqueId",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[test-template:depositCheckBalanceTest(java.lang.Double)]/[test-template-invocation:#1]",
+      "mode": "hidden"
+    },
+    {
+      "name": "arg0",
+      "value": "100.0"
+    }
+  ],
+  "start": 1694501015521,
+  "stop": 1694501015522
+}

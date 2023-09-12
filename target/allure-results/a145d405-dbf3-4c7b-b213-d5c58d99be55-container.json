@@ -1,0 +1,23 @@
+{
+  "uuid": "a145d405-dbf3-4c7b-b213-d5c58d99be55",
+  "name": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ Card",
+  "children": [
+    "18884c78-c630-4af5-b072-87a280fb0b7f",
+    "75cce44d-a644-42b6-8228-856d998cff80",
+    "6bf8df17-93b0-44da-acb6-7fbe854add3b",
+    "3b0b5bfa-265c-47c1-a6d9-c487a71c538c",
+    "3bd36cbd-fbf1-49a3-add0-f7204d437da7",
+    "108e0fae-5573-4ba7-9ce7-d7133a64c677",
+    "52a684e0-943c-44f6-a077-08562f2e89cf",
+    "15ceef56-e7cc-4000-b138-4cff59c4c93d",
+    "d8e89e20-f058-4224-a41d-35a32b2565ec",
+    "1b74c67f-d4cb-4618-a27d-30fcef62fdad",
+    "776466cf-5a64-4540-bab7-582348138ce8",
+    "4af205e4-06bb-4c18-afb8-0fd628c31a3f",
+    "a0ddafc8-a3ab-45b7-9391-3ed60b882a9d"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694501080884,
+  "stop": 1694501082174
+}

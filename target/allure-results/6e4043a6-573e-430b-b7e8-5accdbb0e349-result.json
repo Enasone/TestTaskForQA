@@ -1,0 +1,115 @@
+{
+  "uuid": "6e4043a6-573e-430b-b7e8-5accdbb0e349",
+  "historyId": "f3ec9807ebd7354d6ad99bb964a2483b",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CreditCardUnitTest]/[test-template:creditCardMagazineTest(java.lang.Double, java.lang.Double, java.lang.Double)]",
+  "testCaseName": "РЎРїРёСЃР°РЅРёРµ Р±Р°Р»Р°РЅСЃР° СЃ РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚С‹",
+  "fullName": "ru.bankproduct.unit.CreditCardUnitTest.creditCardMagazineTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CreditCardUnitTest]/[test-template:creditCardMagazineTest(java.lang.Double, java.lang.Double, java.lang.Double)]/[test-template-invocation:#1]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "16996@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.CreditCardUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.CreditCardUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "creditCardMagazineTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ CreditCard"
+    }
+  ],
+  "links": [],
+  "name": "РЎРїРёСЃР°РЅРёРµ Р±Р°Р»Р°РЅСЃР° СЃ РєСЂРµРґРёС‚РЅРѕР№ РєР°СЂС‚С‹ РџСЂРё СЃРїРёСЃР°РЅРёРё Р±Р°Р»Р°РЅСЃР° 100.00 РЅР° 100.00 РѕР¶РёРґР°РµС‚СЃСЏ СЂРµР·СѓР»СЊС‚Р°С‚ 0",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat '0.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694502802889,
+      "stop": 1694502802889
+    },
+    {
+      "name": "as 'Р Р°Р·РЅРѕСЃС‚СЊ []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'Р Р°Р·РЅРѕСЃС‚СЊ'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694502802890,
+          "stop": 1694502802890
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694502802890,
+      "stop": 1694502802890
+    },
+    {
+      "name": "isEqualTo '0.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694502802891,
+      "stop": 1694502802891
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "UniqueId",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CreditCardUnitTest]/[test-template:creditCardMagazineTest(java.lang.Double, java.lang.Double, java.lang.Double)]/[test-template-invocation:#1]",
+      "mode": "hidden"
+    },
+    {
+      "name": "arg0",
+      "value": "100.0"
+    },
+    {
+      "name": "arg1",
+      "value": "100.0"
+    },
+    {
+      "name": "arg2",
+      "value": "0.0"
+    }
+  ],
+  "start": 1694502802887,
+  "stop": 1694502802891
+}

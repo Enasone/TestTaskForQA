@@ -1,0 +1,26 @@
+{
+  "uuid": "5b97452f-0f0f-4ed3-8150-9fe470860bfe",
+  "name": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ CreditCard",
+  "children": [
+    "9df111fe-8963-4f92-a2ae-77624f23c2e2",
+    "30ce59a8-a38d-43b6-b3a5-d6e32e74ae56",
+    "72df2e78-4907-4f1d-a765-b1e8c2aaed7c",
+    "6897f59d-cd5e-4371-a6a4-79a1854a238d",
+    "2c6ef0ef-eeb0-4364-be3c-2fb6d3f42374",
+    "e244fc7b-f688-4c95-b8fd-209721ca5db5",
+    "484c2d74-2181-40c8-b15b-3c1358ac0053",
+    "72ec3bb4-3b9f-4118-824f-d749d681677f",
+    "5beb39a9-b61b-4072-b2fa-87310a1da477",
+    "7b8e96f3-7c04-4fa0-afbd-4ecefa9002a5",
+    "ff56a439-f04b-4ef1-8fe4-bbb81e750166",
+    "2c85fb02-398f-4dc4-8283-5de8f34d7078",
+    "be6357de-3860-44d9-ac60-046fca7a7674",
+    "eb8f2771-a6a6-483c-93f2-faafe564d23f",
+    "6c1ceb4d-3362-439a-806b-4d8c48878ca1",
+    "4634caba-4c7b-4415-8315-d2ac71ad5304"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694501015398,
+  "stop": 1694501015517
+}

@@ -1,0 +1,115 @@
+{
+  "uuid": "1dcddfeb-ef80-4d64-9267-5bd3dea06503",
+  "historyId": "2df1ac681ca941b701ffa9298b5a43eb",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[test-template:depositReplenishmentTest(java.lang.Double, java.lang.Double, java.lang.Double)]",
+  "testCaseName": "РџРѕРїРѕР»РЅРµРЅРёРµ СЃС‡С‘С‚Р° РЅР° РґРµРїРѕР·РёС‚Рµ",
+  "fullName": "ru.bankproduct.unit.DepositUnitTest.depositReplenishmentTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[test-template:depositReplenishmentTest(java.lang.Double, java.lang.Double, java.lang.Double)]/[test-template-invocation:#2]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "7052@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.DepositUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.DepositUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "depositReplenishmentTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ Deposit"
+    }
+  ],
+  "links": [],
+  "name": "РџРѕРїРѕР»РЅРµРЅРёРµ СЃС‡С‘С‚Р° РЅР° РґРµРїРѕР·РёС‚Рµ РџСЂРё РїРѕРїРѕР»РЅРµРЅРёРё Р±Р°Р»Р°РЅСЃР° 150.50 РЅР° 0.50 РѕР¶РёРґР°РµС‚СЃСЏ СЂРµР·СѓР»СЊС‚Р°С‚ 151.00",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat '151.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082340,
+      "stop": 1694501082340
+    },
+    {
+      "name": "as 'РЎСѓРјРјРёСЂРѕРІР°РЅРёРµ []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'РЎСѓРјРјРёСЂРѕРІР°РЅРёРµ'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501082340,
+          "stop": 1694501082340
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082340,
+      "stop": 1694501082340
+    },
+    {
+      "name": "isEqualTo '151.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082340,
+      "stop": 1694501082340
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "UniqueId",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[test-template:depositReplenishmentTest(java.lang.Double, java.lang.Double, java.lang.Double)]/[test-template-invocation:#2]",
+      "mode": "hidden"
+    },
+    {
+      "name": "arg0",
+      "value": "150.5"
+    },
+    {
+      "name": "arg1",
+      "value": "0.5"
+    },
+    {
+      "name": "arg2",
+      "value": "151.0"
+    }
+  ],
+  "start": 1694501082339,
+  "stop": 1694501082340
+}

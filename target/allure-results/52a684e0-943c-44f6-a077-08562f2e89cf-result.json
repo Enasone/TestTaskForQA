@@ -1,0 +1,107 @@
+{
+  "uuid": "52a684e0-943c-44f6-a077-08562f2e89cf",
+  "historyId": "56ac4c839ac600ce429345d3f01be09",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CardUnitTest]/[test-template:cardCheckBalanceTest(java.lang.Double)]",
+  "testCaseName": "РџСЂРѕРєРµСЂРєР° Р±Р°Р»Р°РЅСЃР° РєР°СЂС‚С‹",
+  "fullName": "ru.bankproduct.unit.CardUnitTest.cardCheckBalanceTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CardUnitTest]/[test-template:cardCheckBalanceTest(java.lang.Double)]/[test-template-invocation:#5]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "7052@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.CardUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.CardUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "cardCheckBalanceTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ Card"
+    }
+  ],
+  "links": [],
+  "name": "РџСЂРѕРєРµСЂРєР° Р±Р°Р»Р°РЅСЃР° РєР°СЂС‚С‹ Р‘Р°Р»Р°РЅСЃ РєР°СЂС‚С‹ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ = -55.9",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat '-55.90'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082122,
+      "stop": 1694501082122
+    },
+    {
+      "name": "as 'Р‘Р°Р»Р°РЅСЃ СЃС‡РµС‚Р° []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'Р‘Р°Р»Р°РЅСЃ СЃС‡РµС‚Р°'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501082122,
+          "stop": 1694501082122
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082122,
+      "stop": 1694501082122
+    },
+    {
+      "name": "isEqualTo '-55.90'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082122,
+      "stop": 1694501082122
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "UniqueId",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CardUnitTest]/[test-template:cardCheckBalanceTest(java.lang.Double)]/[test-template-invocation:#5]",
+      "mode": "hidden"
+    },
+    {
+      "name": "arg0",
+      "value": "-55.9"
+    }
+  ],
+  "start": 1694501082121,
+  "stop": 1694501082122
+}

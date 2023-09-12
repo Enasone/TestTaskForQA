@@ -1,0 +1,138 @@
+{
+  "uuid": "01a36ce3-1713-43eb-b977-1adbedba2be6",
+  "historyId": "ccfbf6093acddf85ec0917e2a426b228",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[method:depositClosureTest()]",
+  "testCaseName": "РџСЂРѕРІРµСЂРєР° Р·Р°РєСЂС‹С‚РёСЏ СЃС‡С‘С‚Р°",
+  "fullName": "ru.bankproduct.unit.DepositUnitTest.depositClosureTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.DepositUnitTest]/[method:depositClosureTest()]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "12888@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.DepositUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.DepositUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "depositClosureTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ Deposit"
+    }
+  ],
+  "links": [],
+  "name": "РџСЂРѕРІРµСЂРєР° Р·Р°РєСЂС‹С‚РёСЏ СЃС‡С‘С‚Р°",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat 'Р”РµРїРѕР·РёС‚РЅС‹Р№ СЃС‡С‘С‚ Р·Р°РєСЂС‹С‚'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015545,
+      "stop": 1694501015546
+    },
+    {
+      "name": "describedAs 'Р—РЅР°С‡РµРЅРёРµ Р·Р°РєСЂС‹С‚РѕРіРѕ СЃС‡С‘С‚Р°'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015551,
+      "stop": 1694501015551
+    },
+    {
+      "name": "isEqualTo 'Р”РµРїРѕР·РёС‚РЅС‹Р№ СЃС‡С‘С‚ Р·Р°РєСЂС‹С‚'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "isEqualTo 'Р”РµРїРѕР·РёС‚РЅС‹Р№ СЃС‡С‘С‚ Р·Р°РєСЂС‹С‚'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501015551,
+          "stop": 1694501015551
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015551,
+      "stop": 1694501015551
+    },
+    {
+      "name": "assertThat '0.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015551,
+      "stop": 1694501015551
+    },
+    {
+      "name": "as 'Р‘Р°Р»Р°РЅСЃ РґРµРїРѕР·РёС‚Р° []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'Р‘Р°Р»Р°РЅСЃ РґРµРїРѕР·РёС‚Р°'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501015551,
+          "stop": 1694501015551
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015551,
+      "stop": 1694501015551
+    },
+    {
+      "name": "isEqualTo '0.00'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015551,
+      "stop": 1694501015552
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694501015542,
+  "stop": 1694501015552
+}

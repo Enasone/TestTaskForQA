@@ -1,0 +1,62 @@
+{
+  "uuid": "37512dcf-e857-4bed-8726-4d63c545f094",
+  "historyId": "83d99ccbf277b85ac43d2184be7284a4",
+  "testCaseId": "[engine:junit-platform-suite]/[suite:io.cucumber.weatherstack.CurrentWeatherSteps]",
+  "testCaseName": "CurrentWeatherSteps",
+  "fullName": "io.cucumber.weatherstack.CurrentWeatherSteps",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-platform-suite]/[suite:io.cucumber.weatherstack.CurrentWeatherSteps]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "16996@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "io.cucumber.weatherstack.CurrentWeatherSteps"
+    },
+    {
+      "name": "testClass",
+      "value": "io.cucumber.weatherstack.CurrentWeatherSteps"
+    },
+    {
+      "name": "suite",
+      "value": "io.cucumber.weatherstack.CurrentWeatherSteps"
+    },
+    {
+      "name": "AS_ID",
+      "value": "-1"
+    }
+  ],
+  "links": [],
+  "name": "CurrentWeatherSteps",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Suite [io.cucumber.weatherstack.CurrentWeatherSteps] did not discover any tests",
+    "trace": "org.junit.platform.suite.engine.NoTestsDiscoveredException: Suite [io.cucumber.weatherstack.CurrentWeatherSteps] did not discover any tests\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183)\r\n\tat java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)\r\n\tat java.base/java.util.Iterator.forEachRemaining(Iterator.java:133)\r\n\tat java.base/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)\r\n\tat java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)\r\n\tat java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150)\r\n\tat java.base/java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173)\r\n\tat java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)\r\n\tat java.base/java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596)\r\n"
+  },
+  "stage": "finished",
+  "description": "",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1694502803057,
+  "stop": 1694502803057
+}

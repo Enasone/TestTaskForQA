@@ -1,0 +1,11 @@
+{
+  "uuid": "1fb2db05-232e-4fbe-8690-f59d800937c7",
+  "name": "CurrentWeatherSteps",
+  "children": [
+    "8592e462-1ab2-4d10-b7a7-4c200baa0ad7"
+  ],
+  "befores": [],
+  "afters": [],
+  "start": 1694501082347,
+  "stop": 1694501082366
+}

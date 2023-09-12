@@ -1,0 +1,107 @@
+{
+  "uuid": "c7c50c08-cbeb-4f62-9ce3-632619bc1183",
+  "historyId": "11b2af4ee661c367320c3f649a05e92e",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CreditCardUnitTest]/[test-template:creditCardArrearsRequestTest(java.lang.Double)]",
+  "testCaseName": "РџСЂРѕРІРµСЂРєР° Р·Р°РґРѕР»Р¶РЅРѕСЃС‚Рё РїРѕ РєР°СЂС‚Рµ",
+  "fullName": "ru.bankproduct.unit.CreditCardUnitTest.creditCardArrearsRequestTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CreditCardUnitTest]/[test-template:creditCardArrearsRequestTest(java.lang.Double)]/[test-template-invocation:#3]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "7052@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.CreditCardUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.CreditCardUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "creditCardArrearsRequestTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ CreditCard"
+    }
+  ],
+  "links": [],
+  "name": "РџСЂРѕРІРµСЂРєР° Р·Р°РґРѕР»Р¶РЅРѕСЃС‚Рё РїРѕ РєР°СЂС‚Рµ Р‘Р°Р»Р°РЅСЃ РєР°СЂС‚С‹ РїРѕР»СЊР·РѕРІР°С‚РµР»СЏ = 199.49",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat '199.49'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082283,
+      "stop": 1694501082283
+    },
+    {
+      "name": "as 'РџРѕР»СѓС‡РµРЅРёРµ Р·РЅР°С‡РµРЅРёСЏ РїРѕ Р·Р°РґРѕР»Р¶РЅРѕСЃС‚Рё РєР°СЂС‚С‹ []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'РџРѕР»СѓС‡РµРЅРёРµ Р·РЅР°С‡РµРЅРёСЏ РїРѕ Р·Р°РґРѕР»Р¶РЅРѕСЃС‚Рё РєР°СЂС‚С‹'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501082283,
+          "stop": 1694501082283
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082283,
+      "stop": 1694501082283
+    },
+    {
+      "name": "isEqualTo '199.49'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501082283,
+      "stop": 1694501082283
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "UniqueId",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CreditCardUnitTest]/[test-template:creditCardArrearsRequestTest(java.lang.Double)]/[test-template-invocation:#3]",
+      "mode": "hidden"
+    },
+    {
+      "name": "arg0",
+      "value": "199.49"
+    }
+  ],
+  "start": 1694501082282,
+  "stop": 1694501082283
+}

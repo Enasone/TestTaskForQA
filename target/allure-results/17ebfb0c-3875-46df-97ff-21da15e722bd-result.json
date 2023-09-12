@@ -1,0 +1,115 @@
+{
+  "uuid": "17ebfb0c-3875-46df-97ff-21da15e722bd",
+  "historyId": "7d5486f5afa30fc94f60803189d18978",
+  "testCaseId": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CardUnitTest]/[test-template:cardMagazineTest(java.lang.Double, java.lang.Double, java.lang.Double)]",
+  "testCaseName": "РЎРїРёСЃР°РЅРёРµ Р±Р°Р»Р°РЅСЃР° СЃ РєР°СЂС‚С‹",
+  "fullName": "ru.bankproduct.unit.CardUnitTest.cardMagazineTest",
+  "labels": [
+    {
+      "name": "junit.platform.uniqueid",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CardUnitTest]/[test-template:cardMagazineTest(java.lang.Double, java.lang.Double, java.lang.Double)]/[test-template-invocation:#5]"
+    },
+    {
+      "name": "host",
+      "value": "Best-Komp"
+    },
+    {
+      "name": "thread",
+      "value": "12888@Best-Komp.Test worker(24)"
+    },
+    {
+      "name": "framework",
+      "value": "junit-platform"
+    },
+    {
+      "name": "language",
+      "value": "java"
+    },
+    {
+      "name": "package",
+      "value": "ru.bankproduct.unit.CardUnitTest"
+    },
+    {
+      "name": "testClass",
+      "value": "ru.bankproduct.unit.CardUnitTest"
+    },
+    {
+      "name": "testMethod",
+      "value": "cardMagazineTest"
+    },
+    {
+      "name": "suite",
+      "value": "Unit test - РџСЂРѕРІРµСЂРєР° С„СѓРЅРєС†РёР№ Card"
+    }
+  ],
+  "links": [],
+  "name": "РЎРїРёСЃР°РЅРёРµ Р±Р°Р»Р°РЅСЃР° СЃ РєР°СЂС‚С‹ РџСЂРё СЃРїРёСЃР°РЅРёРё Р±Р°Р»Р°РЅСЃР° 145.31 РЅР° 251.00 РѕР¶РёРґР°РµС‚СЃСЏ СЂРµР·СѓР»СЊС‚Р°С‚ -105.69",
+  "status": "passed",
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "assertThat '-105.69'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015380,
+      "stop": 1694501015380
+    },
+    {
+      "name": "as 'Р Р°Р·РЅРѕСЃС‚СЊ []'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [
+        {
+          "name": "describedAs 'Р Р°Р·РЅРѕСЃС‚СЊ'",
+          "status": "passed",
+          "stage": "finished",
+          "steps": [],
+          "attachments": [],
+          "parameters": [],
+          "start": 1694501015380,
+          "stop": 1694501015380
+        }
+      ],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015380,
+      "stop": 1694501015380
+    },
+    {
+      "name": "isEqualTo '-105.69'",
+      "status": "passed",
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1694501015380,
+      "stop": 1694501015380
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "UniqueId",
+      "value": "[engine:junit-jupiter]/[class:ru.bankproduct.unit.CardUnitTest]/[test-template:cardMagazineTest(java.lang.Double, java.lang.Double, java.lang.Double)]/[test-template-invocation:#5]",
+      "mode": "hidden"
+    },
+    {
+      "name": "arg0",
+      "value": "145.31"
+    },
+    {
+      "name": "arg1",
+      "value": "251.0"
+    },
+    {
+      "name": "arg2",
+      "value": "-105.69"
+    }
+  ],
+  "start": 1694501015378,
+  "stop": 1694501015380
+}
